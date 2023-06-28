@@ -1,11 +1,11 @@
-# Big-Data project Group  V
+# Big-Data project Group  5
 
 Implementation and analysis of a meta-heuristic (genetic algorithm) solving the VRP problem
 
 ## Members
 
 - [**sikati-kenmogne**](https://github.com/sikatikenmogne) (chief)
-- [**Faris2025**](https://github.com/Faris2025)
+- [**Faris2045**](https://github.com/Faris2045)
 - [**erwann-axel**](https://github.com/erwann-axel)
 - [**kevinfloride**](https://github.com/kevinfloride)
 - [**mr-tchounga**](https://github.com/mr-tchounga)
