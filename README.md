@@ -11,13 +11,13 @@ Implementation and analysis of a meta-heuristic (genetic algorithm) solving the 
 - [**mr-tchounga**](https://github.com/mr-tchounga)
 - [**Ngamaleuiris**](https://github.com/Ngamaleuiris)
 
-## Task
+## Tasks
 
-Membre | Role | Taches | Détails
+Member | Role | Tasks | Details
 --- | --- | --- | ---
  [**sikati-kenmogne**](https://github.com/sikatikenmogne) | Chief | `Setup the project` <br/> `Definition of the problem's data structure`   |
- [**Faris2025**](https://github.com/Faris2025) |   |  `Calculating the parameters of an instance`  |
+ [**Faris2045**](https://github.com/Faris2045) |   |  `Calculating the parameters of an instance`  |
  [**mr-tchounga**](https://github.com/mr-tchounga) |   |  `The neighbourhood data structure`  |  
- [**kevinfloride**](https://github.com/kevinfloride) |   |  `Calcul des statistiques comportementales de l’algorithme`  |
+ [**kevinfloride**](https://github.com/kevinfloride) |   |  `Calculation of algorithm behavioural statistics`  |
 [**erwann-axel**](https://github.com/erwann-axel) |   |  `Calculation of the algorithm's behavioural statistics`  |  
  [**Ngamaleuiris**](https://github.com/Ngamaleuiris) | Scrib |  `Definition of the problem data structure`  |
